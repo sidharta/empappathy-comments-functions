@@ -1,9 +1,0 @@
-{
-  "name": "empappathy-comment-functions",
-  "description": "A Google Function that reads a comment from Firebase, sends to Google Sentiment Analysis and saves back the score and labels received.",
-  "version": "0.0.1",
-  "dependencies": {
-    "firebase-admin": "^4.1.2",
-    "google-cloud": "^0.48.0"
-  }
-}
